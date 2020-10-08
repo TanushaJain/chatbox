@@ -1,0 +1,41 @@
+.user2{
+    width: 500px;
+    height: 700px;
+    background-color: lightgreen;
+    margin: 10px;
+}
+.input{
+    position: absolute;
+    top: 89%;
+    margin-left: 10px;
+}
+input{
+    width: 430px;
+}
+svg{
+    margin-left: 10px;
+}
+.message1{
+    list-style: none;
+    float: left;
+}
+li{
+    
+    margin-bottom: 5px;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding: 5px;
+    text-align: right;
+}
+.message1 li{
+    background-color:  #fcf3cf ;
+}
+.message2{
+    list-style: none;
+    float: right;
+}
+.message2 li{
+    background-color: #58d68d;
+    margin-right: 10px;
+}

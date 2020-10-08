@@ -1,0 +1,22 @@
+.users{
+    display: flex;
+}
+div{
+    text-align: center;
+}
+.button1{
+    background-color: lightblue;
+    height: 700px;
+    width: 50%;
+    padding-top: 280px;
+    font-size: 70px;
+    font-family: fantasy;
+}
+.button2{
+    background-color: rosybrown;
+    height: 700px;
+    width: 50%;
+    padding-top: 280px;
+    font-size: 70px;
+    font-family: fantasy;
+}
